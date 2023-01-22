@@ -38,8 +38,13 @@
 <h3 align="center"><b>Connect with me on</b> :handshake:</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeajay&label=Profile%20views&color=0e75b6&style=flat" alt="codeajay" /> </p>
 <div align="center">
+<a href="https://leetcode.com/ajayak98/"><img src="https://img.shields.io/badge/Leetcode-E4405F?style=for-the-badge&logo=leetcode&logoColor=white"/></a> <a>
+<a href="https://auth.geeksforgeeks.org/user/ajay01937"><img src="https://img.shields.io/badge/geeksforgeeks-E4405F?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+ <br>
 <a href="https://www.linkedin.com/in/ajaykumarak/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/ajaykumaret"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/><a>
 <a href="https://www.instagram.com/ajaykumar_54_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<br>
+<a href="https://github.com/CodeAjay"><img src="https://img.shields.io/badge/github-E4405F?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
  <hr>
