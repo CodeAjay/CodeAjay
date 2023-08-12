@@ -1,5 +1,5 @@
 # 👋 I'm Ajay
-## I am a front end developer.
+## I am a Full Stack developer.
 <p align='center'>
 <img src='https://user-images.githubusercontent.com/58427577/213914461-b89f6bf5-d8ba-4bc3-87c7-ab41c4a5321b.png' width='350'> 
 </p>
