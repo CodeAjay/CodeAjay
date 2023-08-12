@@ -6,7 +6,7 @@
 
 <div align="center" title="Who am I?"> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Ajay;Frontend+Developer⚡;Open+Source+Enthusiast🥑;Exploring+WebDev💥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Ajay;Fulk+Stack+Developer⚡;Open+Source+Enthusiast🥑;Exploring+WebDev💥)](https://git.io/typing-svg)
 
 </div>
 
