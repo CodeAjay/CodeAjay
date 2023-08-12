@@ -10,7 +10,7 @@
 
 </div>
 
-<p align='center'>  I am an experienced front end web developer and have experience of more than 4 years. I have created many websites on Kajabi and Wordpress. I have experience in Kajabi, WordPress, Photoshop, Flash, HTML, CSS, javascript. I am also active in competitive programming on Geeksofgeeks. I am also do Open Source Development you can check my github account. 
+<p align='center'>  I am an experienced Full Stack developer and have experience of more than 4 years. I have created many websites on Kajabi and WordPress. I have experience in Kajabi, WordPress, Photoshop, Flash, HTML, CSS, javascript, React, Nodejs, MongoDB, MySQL, PHP, etc... I am also active in competitive programming on Geeksofgeeks. I also do Open Source Development you can check my GitHub account. 
 </p>
 
 <!-- Intro -->
